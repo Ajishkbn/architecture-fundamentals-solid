@@ -13,6 +13,10 @@ In the following example, the `User` class has two responsibilities:
 1. Managing user data.
 2. Handling database operations.
 
+### Class Diagram
+
+![Violation](../images/srp_violation.png)
+
 ### Code
 
 ```cpp
@@ -46,6 +50,4 @@ int main() {
 }
 ```
 
-```plantuml
-A -> B: abc
-```
+
