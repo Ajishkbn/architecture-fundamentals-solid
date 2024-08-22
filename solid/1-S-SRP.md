@@ -13,8 +13,6 @@ In the following example, the `User` class has two responsibilities:
 1. Managing user data.
 2. Handling database operations.
 
-### Class Diagram - Violating SRP
-
 ![Violation](../images/srp_violation.png)
 
 ### Code - Violating SRP
