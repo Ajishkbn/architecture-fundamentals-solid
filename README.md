@@ -1,4 +1,4 @@
-# Arch-Fundamentals-SOLID
+# Architecture-Fundamentals-SOLID
 
 This repository is dedicated to exploring the SOLID principles of object-oriented design. It contains practical code examples and detailed explanations to demonstrate how these principles can be applied to create robust, maintainable, and scalable software architectures.
 
