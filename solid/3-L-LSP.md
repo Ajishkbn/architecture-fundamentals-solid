@@ -4,7 +4,7 @@ The Liskov Substitution Principle (LSP) is one of the five SOLID principles of o
 
 ## Moto
 
-Objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program.
+**Objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program.**
 
 ## Example Violating LSP
 

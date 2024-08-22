@@ -4,7 +4,7 @@ The Open/Closed Principle (OCP) is one of the five SOLID principles of object-or
 
 ## Moto
 
-Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.
+**Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.**
 
 ## Example Violating OCP
 

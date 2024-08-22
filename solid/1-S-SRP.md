@@ -4,7 +4,7 @@ The Single Responsibility Principle (SRP) is one of the five SOLID principles of
 
 ## Moto
 
-A class should have a single responsibility
+**A class should have a single responsibility.**
 
 ## Example Violating SRP
 
